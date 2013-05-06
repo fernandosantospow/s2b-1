@@ -3,3 +3,5 @@ C:\Users\diego.lopes\Desktop\projsssss\ConsoleApplication1\ConsoleApplication1\b
 C:\Users\diego.lopes\Desktop\projsssss\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\diego.lopes\Desktop\projsssss\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\diego.lopes\Desktop\projsssss\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\diego.lopes\Documents\GitHub\s2b-1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\diego.lopes\Documents\GitHub\s2b-1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
